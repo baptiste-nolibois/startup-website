@@ -1,0 +1,19 @@
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 20px;
+  padding: ;
+}
+
+.actors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: safe center;
+}
+
+@media (max-width: 500px) {
+  #avatars {
+    display: none;
+  }
+}
