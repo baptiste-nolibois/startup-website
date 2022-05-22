@@ -11,9 +11,3 @@
   flex-wrap: wrap;
   justify-content: safe center;
 }
-
-@media (max-width: 500px) {
-  #avatars {
-    display: none;
-  }
-}
