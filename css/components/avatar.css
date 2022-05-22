@@ -11,3 +11,7 @@
   flex-wrap: wrap;
   justify-content: safe center;
 }
+
+.avatar:hover {
+  filter: blur(2px);
+}
